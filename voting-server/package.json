@@ -32,7 +32,9 @@
     "socket.io": "^1.4.6"
   },
   "babel": {
-      "presets": ["es2015"]
+    "presets": [
+      "es2015"
+    ]
   },
   "description": ""
 }
